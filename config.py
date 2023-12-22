@@ -1,5 +1,5 @@
 {
-    "token": "MTE4NzAwMTkyODY5ODI5ODQ0OA.G5LBq7.wRWQ2SunkVSKBEdFp_k2Aw13Pzjr--m4eBtTGE",
+    "token": "",
     "proxy": false,
     "nuke": {
         "channels_name": [
