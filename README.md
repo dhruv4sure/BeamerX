@@ -3,7 +3,7 @@ BeamerX is an Fastest Nuker that is written on Python
 ## Installation
 For compiled version:
 
-- Download latest version from [releases)](https://discord.gg/ntontop)
+- Download latest version from [releases](https://github.com/dhruv4sure/BeamerX/releases/tag/V1)
 - Extract all the Files
 - Run BeamerX.py
 
